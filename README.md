@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ertugrul Aydin</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Wees de Stem voor Vrijheid](https://wsvvrijheid.nl)
+- 🔭 I'm a freelancer
 
 - 🌱 I’m currently learning **Typescript, NodeJS, NextJs, Laravel, Strapi**
 
