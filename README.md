@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ertugrul Aydin</h1>
-<h3 align="center">Full Stack Developer</h3>
+<!-- <h3 align="center">Full Stack Developer</h3> -->
 
-- 🔭 I'm a freelancer
+- 🔭 I'm a Full Stack Developer
 
 - 🌱 I’m currently learning **Typescript, NodeJS, NextJs, Laravel, Strapi**
 
