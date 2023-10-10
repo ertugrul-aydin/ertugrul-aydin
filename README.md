@@ -16,12 +16,38 @@
 <br/>
 
 
-<h1 align="left">My Important Projects</h1>
+<h1 align="left">Some of My Projects</h1>
 
 | 📝 Project Details  | 🔧 Tech Stack   | 🚀 Live   |
 | :---         |     :---:      |    ---:       |
-| Doctor Appointment System with Admin Dashboard   | Core PHP,Javasript, Jqeury, FullCalenderJS, Bootstrap     | [let's go](https://psk.ertugrulaydin.nl/)    |
-| Doctor Appointment System with Admin Dashboard V2   | NextJS, Javascript, Nodejs, Bootstrap, Scss      | [let's go](https://psk2.ertugrulaydin.nl/)    |
+| 👨🏻‍💻 Doctor Appointment System with Admin Dashboard   | Core PHP,Javasript, Jqeury, FullCalenderJS, Bootstrap     | [let's go](https://psk.ertugrulaydin.nl/)     |
+| 👨🏻‍💻 Doctor Appointment System with Admin Dashboard V2   | NextJS, Javascript, Nodejs, Bootstrap, Scss      | [let's go](https://psk2.ertugrulaydin.nl/)     |
+| 👨🏻‍💻 Foundation   | NextJS, Typescript, Monorepo, Storybook, Turborepo, Strapi, Chakra, Figma     | [let's go](https://www.wsvvrijheid.nl/)     |
+| ✅ Psychology Company Website with Admin Dashboard   | Core PHP, Javasript, Jqeury, Bootstrap, ChartJS      | [let's go](https://www.empatipsikoterapi.com/)    |
+| ✅ Psychology Company Website 2   | Core PHP, Javasript, Jqeury, Bootstrap      | [let's go](https://www.empatidanisma.com/)    |
+| ✅ Health Centre  Company Website  | Core PHP, Javasript, Jqeury, Bootstrap, ChartJS      | [let's go](https://cinselterapiuzmani.com/)    |
+| ✅ Constructor Company Website with Admin Dashboard   | Core PHP, Javasript, Jqeury, Bootstrap, ChartJS      | [let's go](https://gunesmuhendislik.com/)    |
+| ✅ Fullfillment Company Website   | Wordpress      | [let's go](https://ukprefulfillment.com/)    |
+| ✅ Accountancy Company Website   | Wordpress      | [let's go](https://dtodanismanlik.com)    |
+| ✅ Fullfillment Company Website De   | Wordpress      | [let's go](https://logistik-global.de/)    |
+| ✅ Industrial Painting Company Website   | Wordpress      | [let's go](https://experthus.com/)    |
+| ✅ Psychology Company Website 3  | Wordpress      | [let's go](https://www.kocaeliciftterapisi.com/)    |
+| ✅ Psychology Company Website 4  | Wordpress      | [let's go](https://kocaelicocukpsikologu.com/)    |
+| ✅ Individual Doctor Website   | Wordpress      | [let's go](https://www.melikegokdemir.com/)    |
+| ✅ Individual Psycholog Website   | Wordpress      | [let's go](https://ferhatcitiroglu.com/)    |
+| ✅ Foundation Website    | Wordpress      | [let's go](https://www.stichtingflipje.nl/)    |
+| ✅ Marine Company Website    | Wordpress      | [let's go](https://zigzagmarine.com/)    |
+| ✅ Rug Gallery Store Website   | Shopify      | [let's go](https://wrghome.com/)    |
+| ✅ Spices Store Website   | Shopify      | [let's go](https://tuanashop.nl/)    |
+| ✅ Cosmetics Store Website   | Shopify      | [let's go](https://eyka.nl/)    |
+| ✅ Cosmetics Store Website 2   | Shopify      | [let's go](https://formcure.nl/)    |
+| ✅ Decoration Store Website   | Shopify      | [let's go](https://www.decomil.com/)    |
+| ✅ Cosmetics Store Website   | Shopify      | [let's go](https://eyka.nl/)    |
+| ✅ Furniture Store Website   | Shopify - Shopify Api      | [let's go](https://www.thebargainfurniture.com/)    |
+| ✅ Clock Store Website   | Shopify     | [let's go](https://www.mclocks.store/)    |
+| ✅ Clock Store Website Tr  | Shopify     | [let's go](https://www.mclocks.com/)    |
+| ✅ Ceramics Store Website  | Shopify     | [let's go](https://bskceramics.com/)    |
+
 
 <br/>
 
