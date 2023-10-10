@@ -18,9 +18,9 @@
 
 <h1 align="left">Some of My Projects</h1>
 
-| 📝 Project Details &nbsp; | 🔧 Tech Stack &nbsp;|🚀 Live &nbsp;|
-| :---  |     :---     | :--- |
-| 👨🏻‍💻 Doctor Appointment System with Admin Dashboard   | Core PHP,Javasript, Jqeury, FullCalenderJS, Bootstrap     | [let's go](https://psk.ertugrulaydin.nl/)     |
+| 📝 Project Details| 🔧 Tech Stack | 🚀 Live  |
+| :--- |:--- | :---: |
+| 👨🏻‍💻 Doctor Appointment System with Admin Dashboard   | Core PHP,Javasript, Jqeury, FullCalenderJS, Bootstrap     | [let'sgo](https://psk.ertugrulaydin.nl/)     |
 | 👨🏻‍💻 Doctor Appointment System with Admin Dashboard V2   | NextJS, Javascript, Nodejs, Bootstrap, Scss      | [let's go](https://psk2.ertugrulaydin.nl/)     |
 | 👨🏻‍💻 Foundation   | NextJS, Typescript, Monorepo, Storybook, Turborepo, Strapi, Chakra, Figma     | [let's go](https://www.wsvvrijheid.nl/)     |
 | ✅ Psychology Company Website with Admin Dashboard   | Core PHP, Javasript, Jqeury, Bootstrap, ChartJS      | [let's go](https://www.empatipsikoterapi.com/)    |
