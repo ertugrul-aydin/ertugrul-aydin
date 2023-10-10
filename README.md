@@ -18,7 +18,7 @@
 
 <h1 align="left">My Important Projects</h1>
 
-| 📝 Project Details  | 🔧 Tech Stack   | 🚀 Live Demo  |
+| 📝 Project Details  | 🔧 Tech Stack   | 🚀 Live   |
 | :---         |     :---:      |    ---:       |
 | Doctor Appointment System with Admin Dashboard   | Core PHP,Javasript, Jqeury, FullCalenderJS, Bootstrap     | [let's go](https://psk.ertugrulaydin.nl/)    |
 | Doctor Appointment System with Admin Dashboard V2   | NextJS, Javascript, Nodejs, Bootstrap, Scss      | [let's go](https://psk2.ertugrulaydin.nl/)    |
