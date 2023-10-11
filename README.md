@@ -5,7 +5,7 @@
 
 - 🔭 I'm a Full Stack Developer
 
-- 🌱 I’m currently learning **Typescript, NodeJS, NextJs, Laravel, Strapi**
+- 🌱 I’m currently learning **Typescript, React, NextJS, NodeJS, Laravel, Strapi**
 
 - 👨‍💻 All of my projects are available at [ertugrulaydin.nl](https://ertugrulaydin.nl)
 
