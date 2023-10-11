@@ -44,7 +44,7 @@
 | ✅ Spices Store Website   | Shopify      | [let's go](https://tuanashop.nl/)    |
 | ✅ Cosmetics Store Website   | Shopify      | [let's go](https://eyka.nl/)    |
 | ✅ Cosmetics Store Website 2   | Shopify      | [let's go](https://formcure.nl/)    |
-| ✅ Decoration Store Website   | Shopify      | [let's go](https://www.decomil.com/)    |
+| ✅ Decoration Store Website   | Shopify      | [let'sgo](https://www.decomil.com/)    |
 | ✅ Cosmetics Store Website   | Shopify      | [let's go](https://eyka.nl/)    |
 | ✅ Furniture Store Website   | Shopify - Shopify Api      | [let's go](https://www.thebargainfurniture.com/)    |
 | ✅ Clock Store Website   | Shopify     | [let's go](https://www.mclocks.store/)    |
