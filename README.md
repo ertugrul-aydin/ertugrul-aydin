@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, React, NextJS, NodeJS, Laravel, Strapi**
 
-- 👨‍💻 All of my projects are available at [ertugrulaydin.nl](https://ertugrulaydin.nl)
+- 👨‍💻 All of my projects are available at 🔜 [ertugrulaydin.nl](https://ertugrulaydin.nl)
 
 - 📫 How to reach me **contact@ertugrulaydin.nl**
 
