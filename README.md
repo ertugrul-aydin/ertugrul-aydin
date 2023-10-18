@@ -30,16 +30,16 @@
 | ✅ Psychology Company Website 2   | Core PHP, Javasript, Jquery, Bootstrap      | [let's go](https://www.empatidanisma.com/)    |
 | ✅ Health Centre  Company Website  | Core PHP, Javasript, Jquery, Bootstrap, ChartJS      | [let's go](https://cinselterapiuzmani.com/)    |
 | ✅ Constructor Company Website with Admin Dashboard   | Core PHP, Javasript, Jquery, Bootstrap, ChartJS      | [let's go](https://gunesmuhendislik.com/)    |
-| ✅ Fullfillment Company Website   | Wordpress      | [let's go](https://ukprefulfillment.com/)    |
-| ✅ Accountancy Company Website   | Wordpress      | [let's go](https://dtodanismanlik.com)    |
-| ✅ Fullfillment Company Website De   | Wordpress      | [let's go](https://logistik-global.de/)    |
-| ✅ Industrial Painting Company Website   | Wordpress      | [let's go](https://experthus.com/)    |
-| ✅ Psychology Company Website 3  | Wordpress      | [let's go](https://www.kocaeliciftterapisi.com/)    |
-| ✅ Psychology Company Website 4  | Wordpress      | [let's go](https://kocaelicocukpsikologu.com/)    |
-| ✅ Individual Doctor Website   | Wordpress      | [let's go](https://www.melikegokdemir.com/)    |
-| ✅ Individual Psycholog Website   | Wordpress      | [let's go](https://ferhatcitiroglu.com/)    |
-| ✅ Foundation Website    | Wordpress      | [let's go](https://www.stichtingflipje.nl/)    |
-| ✅ Marine Company Website    | Wordpress      | [let's go](https://zigzagmarine.com/)    |
+| ✅ Fullfillment Company Website   | PHP, Wordpress      | [let's go](https://ukprefulfillment.com/)    |
+| ✅ Accountancy Company Website   | PHP, Wordpress      | [let's go](https://dtodanismanlik.com)    |
+| ✅ Fullfillment Company Website De   | PHP, Wordpress      | [let's go](https://logistik-global.de/)    |
+| ✅ Industrial Painting Company Website   | PHP, Wordpress      | [let's go](https://experthus.com/)    |
+| ✅ Psychology Company Website 3  | PHP, Wordpress      | [let's go](https://www.kocaeliciftterapisi.com/)    |
+| ✅ Psychology Company Website 4  | PHP, Wordpress      | [let's go](https://kocaelicocukpsikologu.com/)    |
+| ✅ Individual Doctor Website   | PHP, Wordpress      | [let's go](https://www.melikegokdemir.com/)    |
+| ✅ Individual Psycholog Website   | PHP, Wordpress      | [let's go](https://ferhatcitiroglu.com/)    |
+| ✅ Foundation Website    | PHP, Wordpress      | [let's go](https://www.stichtingflipje.nl/)    |
+| ✅ Marine Company Website    | PHP, Wordpress      | [let's go](https://zigzagmarine.com/)    |
 | ✅ Rug Gallery Store Website   | Shopify      | [let's go](https://wrghome.com/)    |
 | ✅ Spices Store Website   | Shopify      | [let's go](https://tuanashop.nl/)    |
 | ✅ Cosmetics Store Website   | Shopify      | [let's go](https://eyka.nl/)    |
