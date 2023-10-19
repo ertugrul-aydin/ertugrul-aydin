@@ -23,13 +23,13 @@
 
 | 📝 Project Details| 🔧 Tech Stack | 🚀 Live  |
 | :--- |:--- | :---: |
-| 👨🏻‍💻 Doctor Appointment System with Admin Dashboard   | Core PHP,Javasript, Jquery, FullCalenderJS, Bootstrap     | [let's go](https://psk.ertugrulaydin.nl/)     |
+| 👨🏻‍💻 Doctor Appointment System with Admin Dashboard   | Core PHP,Javasript, jQuery, FullCalenderJS, Bootstrap     | [let's go](https://psk.ertugrulaydin.nl/)     |
 | 👨🏻‍💻 Doctor Appointment System with Admin Dashboard V2   | NextJS, Javascript, Nodejs, Bootstrap, Scss      | [let's go](https://psk2.ertugrulaydin.nl/)     |
 | 👨🏻‍💻 Foundation   | NextJS, Typescript, Monorepo, Storybook, Turborepo, Strapi, Chakra, Figma     | [let's go](https://www.wsvvrijheid.nl/)     |
-| ✅ Psychology Company Website with Admin Dashboard   | Core PHP, Javasript, Jquery, Bootstrap, ChartJS      | [let's go](https://www.empatipsikoterapi.com/)    |
-| ✅ Psychology Company Website 2   | Core PHP, Javasript, Jquery, Bootstrap      | [let's go](https://www.empatidanisma.com/)    |
-| ✅ Health Centre  Company Website  | Core PHP, Javasript, Jquery, Bootstrap, ChartJS      | [let's go](https://cinselterapiuzmani.com/)    |
-| ✅ Constructor Company Website with Admin Dashboard   | Core PHP, Javasript, Jquery, Bootstrap, ChartJS      | [let's go](https://gunesmuhendislik.com/)    |
+| ✅ Psychology Company Website with Admin Dashboard   | Core PHP, Javasript, jQuery, Bootstrap, ChartJS      | [let's go](https://www.empatipsikoterapi.com/)    |
+| ✅ Psychology Company Website 2   | Core PHP, Javasript, jQuery, Bootstrap      | [let's go](https://www.empatidanisma.com/)    |
+| ✅ Health Centre  Company Website  | Core PHP, Javasript, jQuery, Bootstrap, ChartJS      | [let's go](https://cinselterapiuzmani.com/)    |
+| ✅ Constructor Company Website with Admin Dashboard   | Core PHP, Javasript, jQuery, Bootstrap, ChartJS      | [let's go](https://gunesmuhendislik.com/)    |
 | ✅ Fullfillment Company Website   | PHP, Wordpress      | [let's go](https://ukprefulfillment.com/)    |
 | ✅ Accountancy Company Website   | PHP, Wordpress      | [let's go](https://dtodanismanlik.com)    |
 | ✅ Fullfillment Company Website De   | PHP, Wordpress      | [let's go](https://logistik-global.de/)    |
