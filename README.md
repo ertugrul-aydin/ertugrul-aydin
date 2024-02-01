@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ertugrul Aydin</h1>
 <!-- <h3 align="center">Full Stack Developer</h3> -->
 
-![Banner](https://media.licdn.com/dms/image/D4E16AQHT2GPGHG_GKA/profile-displaybackgroundimage-shrink_350_1400/0/1697666977527?e=1703116800&v=beta&t=6-pRSHd4Js6BPOK01r9tEiGLmxJewhY72XudAxRAGVM)
+![Banner](https://media.licdn.com/dms/image/D4E16AQHT2GPGHG_GKA/profile-displaybackgroundimage-shrink_350_1400/0/1697666991072?e=1712188800&v=beta&t=pyo8lZt2-qsTokDjqsSNKt2VAGAqsGYrRsYyY_BIgRM)
 
 - 🔭 I'm a Full Stack Developer
 
